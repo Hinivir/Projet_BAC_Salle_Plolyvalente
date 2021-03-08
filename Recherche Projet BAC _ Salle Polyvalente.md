@@ -4,3 +4,4 @@ Travail Attendue : Interface web pour le relevé et le contrôle de la températ
 
 1ère Partie : Recherche
 
+Nous alons recherer sur Internet des solutions permettant de répondre au travail attendue
