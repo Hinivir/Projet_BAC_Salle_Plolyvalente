@@ -1,0 +1,5 @@
+Idée pour le simulateur projet BAC : 
+variable de T° (aléatoire)
+faire changer la température vers celle voulue
+indiquer chauffage / clime
+rajouter un timer entre les changement de température
